@@ -26,7 +26,8 @@
      > - Then, go to Settings -> Themes(under Vencord Settings), "Load Missing Themes" if not present, and enable the Midnight theme.
      > - The css file has custom --custom-* and transparent --bg-* colors. Feel free to edit them if you feel like it.
 
-- **Global color scheme:** Breeze Dark with a green accent color
+- **Color schemes:**
+     > - Plasma's Global Color Scheme: Breeze Dark with a green accent color.
      > - The cava color config file can be placed in ".config/cava/themes/".
      > - After placing it there, open .config/cava/config (generated after the first cava run) with your preferred code editor and replace any existing theme = * line with theme = 'cava'.
 
