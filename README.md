@@ -1,3 +1,6 @@
+## Preview the rice on Reddit (at least until I'm done modifying my [website](https://htgtcxin.neocities.org))
+- [LinuxPorn post](https://www.reddit.com/r/LinuxPorn/comments/1s7h4fk/never_riced_a_de_until_now/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
 #### External Themes:
 
 - **Wallpaper:** Smart Video Wallpaper Reborn
