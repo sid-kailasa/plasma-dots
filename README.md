@@ -34,4 +34,4 @@
      > - To get the theme, you'll need to make a new profile in Konsole and set it as the default, then right click and click on 'Edit Current Profile'.
      > - After that, go to 'Appearance' -> 'Get New' and search for "Orchis".
      > - Download the Orchis Konsole Theme and you can apply it in the appearance tab itself.
-     > - The font is JetBrains Mono, size 12. download it using ```zypper install jetbrains-mono-fonts``` and you can apply that in 'Appearance' as well.
+     > - The font is JetBrains Mono, size 12. download it using ```sudo zypper install jetbrains-mono-fonts``` and you can apply that in 'Appearance' as well.
