@@ -26,13 +26,14 @@
      > - Then, go to Settings -> Themes(under Vencord Settings), "Load Missing Themes" if not present, and enable the Midnight theme.
      > - The css file has custom --custom-* and transparent --bg-* colors. Feel free to edit them if you feel like it.
 
-- **Color schemes:**
+- **Color scheme and fonts:**
      > - Plasma's Global Color Scheme: Breeze Dark with a green accent color.
      > - The cava color config file can be placed in ".config/cava/themes/".
      > - After placing it there, open .config/cava/config (generated after the first cava run) with your preferred code editor and replace any existing theme = * line with theme = 'cava'.
+     > - For the font, I use JetBrains Mono Bold, which can be downloaded using ```sudo zypper install jetbrains-mono-fonts``` with the default font sizes.
 
 - **Terminal:** Konsole + Orchis Konsole Theme + JetBrains Mono Font
      > - To get the theme, you'll need to make a new profile in Konsole and set it as the default, then right click and click on 'Edit Current Profile'.
      > - After that, go to 'Appearance' -> 'Get New' and search for "Orchis".
      > - Download the Orchis Konsole Theme and you can apply it in the appearance tab itself.
-     > - The font is JetBrains Mono, size 12. download it using ```sudo zypper install jetbrains-mono-fonts``` and you can apply that in 'Appearance' as well.
+     > - The font is JetBrains Mono Bold just like the DE, Size 12, and you can apply that in 'Appearance' as well.
